@@ -1,0 +1,32 @@
+_repo: La-petite-faunesse_75100
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Derennes, Charles
+    birthdate: 1882
+    deathdate: 1930
+    gutenberg_agent_id: '53060'
+    url: http://www.gutenberg.org/2009/agents/53060
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Charles_Derennes
+    - https://fr.wikipedia.org/wiki/Charles_Derennes
+description: ''
+gutenberg_issued: '2025-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75100'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=umn.31951002138912p
+pgterms:marc905: 20210403150055derennes
+pgterms:marc906: '1918'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bL''édition, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La petite faunesse
+url: http://www.gutenberg.org/ebooks/75100
